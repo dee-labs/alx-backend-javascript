@@ -1,2 +1,2 @@
 # alx-backend-javascript
-ES6 Basics
+This repository contains files put together for exercises in JavaScript Programming Language for specialization in Backend Development.
