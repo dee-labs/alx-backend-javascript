@@ -42,5 +42,5 @@ in your project directory:
     - Click to show/hide file contents
 * .eslintrc.js
     - Click to show/hide file contents
-and…
+## and…
 Don’t forget to run $ npm install when you have the package.json
