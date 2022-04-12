@@ -1,13 +1,3 @@
-/*
- * File: 0-get_list_students.js
- * Auth: Ukonu Divine Chisom
- */
-
-/**
- * getListStudents - Retrieves a list of students.
- * @returns an array of objects
- */
-
 export default function getListStudents(){
     return [
         { id: 1, firstName: 'Guillaume', location: 'San Francisco' },
