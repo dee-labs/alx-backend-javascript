@@ -4,7 +4,7 @@
  */
 
 /**
- * getListStudents - Retrieves ids from a list of students.
+ * getListStudents - Retrieves a list of students.
  * @returns an array of objects
  */
 
