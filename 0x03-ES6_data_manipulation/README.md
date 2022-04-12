@@ -36,7 +36,8 @@ in your project directory:
 * Install ESLint using: npm install --save-dev eslint
 ## Configuration files
 * package.json
-    ```
+
+```
 {
   "scripts": {
     "lint": "./node_modules/.bin/eslint",
@@ -56,9 +57,11 @@ in your project directory:
     "jest": "^24.9.0"
   }
 }
+
 ```
 * babel.config.js
-    ```
+
+```
     module.exports = {
   presets: [
     [
@@ -71,9 +74,11 @@ in your project directory:
     ],
   ],
 };
+
 ```
 * .eslintrc.js
-    ```
+
+```
     module.exports = {
   presets: [
     [
@@ -86,6 +91,7 @@ in your project directory:
     ],
   ],
 };
+
 ```
 ### and…
 Don’t forget to run $ npm install when you have the package.json
