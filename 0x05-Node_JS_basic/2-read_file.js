@@ -2,7 +2,7 @@ const fs = require('fs');
 
 /**
  * Reading a file synchronously with Node JS
- * 
+ *
  * Counts the students in a CSV data file.
  * @param {String} path The path to the CSV data file.
  */
