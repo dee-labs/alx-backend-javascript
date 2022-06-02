@@ -1,4 +1,6 @@
 /**
+ * Executing basic javascript with Node JS
+ * 
  * Displays a message on the STDOUT.
  * @param {String} message The message to display.
  */
